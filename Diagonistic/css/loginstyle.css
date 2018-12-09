@@ -1,0 +1,131 @@
+/*CSS style sheet*/
+
+#main-box{
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	height:250px;
+	
+}
+
+.pin{
+	position: absolute;
+	top:50px;
+	left:600px;
+	width:260px;
+	height:70px;
+	text-align:center;
+	height:40px;
+}
+
+#people{
+	position:absolute;
+	top:120px;
+	left:600px;
+	width:160px;
+	height:140px;
+	text-align:center;
+	border-radius:50%;
+}
+#logindiv{
+	top:300px;
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	height:300px;
+
+}
+#registerdiv{
+	top:300px;
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	height:300px;
+
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login_btn{
+	margin-top:20px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#register_btn{
+	margin-bottom:20px;
+	margin-top:20px;
+	background-color:#e67e22;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#signup_btn{
+	margin-top:20px;
+	background-color:#d35400;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#back_btn{
+	margin-top:20px;
+	background-color:#f39c12;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+/*#logout_btn{
+	margin-top:20px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#upload_btn{
+	margin-top:20px;
+	
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+#logoutdiv{
+	top:300px;
+	width:500px;
+	margin:0 auto;
+	background:white;
+	padding:5px;
+	height:300px;
+
+}*/
